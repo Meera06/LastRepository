@@ -11,6 +11,7 @@ public class Test_input {			//class to find whether the number is prime or copri
 		System.out.println("Enter 1.one number" +
 				"2.two numbers");
 		sw_var=sc.nextInt();
+		System.out.println("Just for testing");
 		switch(sw_var)						
 		{
 		case 2:								//in case of 2 numbers
